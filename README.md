@@ -1,1 +1,2 @@
 # Checkers
+This is a functioning checkers game template. It is certainly not perfect - the winning screens are not particulary advanced, the rules aren't clear to someone who hasn't played before, and my insistence of describing the files with the characters (in accordance with my passion for chess and correct notation) certainly makes the code clunkier than it needs to be. It isn't so much something to be released onto the web, more an exercise in Java's GUI and a demonstration of my entirely self-taught Java skils. To run the game, run gWindow.
